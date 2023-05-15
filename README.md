@@ -15,16 +15,24 @@
 ---
 
 <h3>My socials :</h3>
-<a href="https://discordapp.com/users/270219307475140608" target="_blank">
+<a href="https://discordapp.com/users/270219307475140608">
 	<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/discord.png' alt='discord' height='40'>
 </a>
 ㅤㅤ
-<a href="https://www.behance.net/maxime-mrl" target="_blank">
+<a href="https://www.behance.net/maxime-mrl">
 	<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/behance.png' alt='behance' height='40'>
 </a>
 ㅤㅤ
-<a href="https://www.instagram.com/maxime.morl/" target="_blank">
+<a href="https://codepen.io/maximel-mrl">
+	<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/codepen-icon.svg' alt='codepen' height='40'>
+</a>
+ㅤㅤ
+<a href="https://www.instagram.com/maxime.morl/">
 	<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/instagram.png' alt='instagram' height='40'>
+</a>
+ㅤㅤ
+<a href="mailto:maxime.morel@ik.me">
+	<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/email.png' alt='mail' height='40'>
 </a>
 
 ---
