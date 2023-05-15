@@ -1,8 +1,8 @@
 <div id="user-content-toc" align="center"><ul>
-    <summary><h1 style="border-bottom: none;">Heya 👋 I'm Maxime Morel</h1></summary>
+    <summary><h1>Heya 👋 I'm Maxime Morel</h1></summary>
 </ul></div>
 <div id="user-content-toc" align="center"><ul>
-    <summary><h2 style="border-bottom: none;">Web Developper</h2></summary>
+    <summary><h2>Web Developper</h2></summary>
 </ul></div>
 
 ---
