@@ -42,6 +42,8 @@
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/javascript.svg' alt='JavaScript' height='40'>ㅤ
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/node-js.svg' alt='NodeJS' height='40'>ㅤ
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/threejs.svg' alt='ThreeJS' height='40'>
+<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/react.svg' alt='ReactJS' height='40'>ㅤ
+<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/mongodb-icon.svg' alt='MongoDB' height='40'>
 
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/html-5.svg' alt='HTML' height='40'>ㅤ
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/css-3.svg' alt='CSS' height='40'>ㅤ
