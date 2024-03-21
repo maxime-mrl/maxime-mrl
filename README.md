@@ -10,7 +10,7 @@
 
 - 🌱 Student at SAE Geneva
 - 📍Living in the french Alps 🥖
-- 🗻 If I don't developp I'm likely in the moutains
+- 🗻 If I'm not coding I'm likely in the moutains
 
 ---
 
