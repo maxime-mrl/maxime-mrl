@@ -46,6 +46,8 @@
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/nextjs-icon.svg' alt='NextJS' height='40'>ㅤ
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/mongodb-icon.svg' alt='MongoDB' height='40'>
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/socketio.svg' alt='Socket.IO' height='40'>
+<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/redux.svg' alt='React Redux' height='40'>
+<img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/zustand.svg' alt='Zustand' height='40'>
 
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/php.svg' alt='PHP' height='40'>ㅤ
 <img src='https://raw.githubusercontent.com/maxime-mrl/maxime-mrl/main/mysql.svg' alt='MySQL' height='40'>ㅤ
